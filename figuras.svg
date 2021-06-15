@@ -1,0 +1,14 @@
+<svg width='1440.00' height='720.00' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(0,0,205); mix-blend-mode: screen;' />
+<rect x='95.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(139,0,0); mix-blend-mode: screen;' />
+<rect x='190.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(139,0,139); mix-blend-mode: screen;' />
+<rect x='285.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(0,0,205); mix-blend-mode: screen;' />
+<rect x='380.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(139,0,0); mix-blend-mode: screen;' />
+<rect x='475.00' y='250.00' width='50.00' height='50.00' style='fill:rgb(139,0,139); mix-blend-mode: screen;' />
+<circle  cx='10.00' cy='50.00' r='10.00' fill='fill:rgb(0,0,205); mix-blend-mode: screen;' />
+<circle  cx='60.00' cy='55.00' r='10.00' fill='fill:rgb(139,0,0); mix-blend-mode: screen;' />
+<circle  cx='110.00' cy='60.00' r='10.00' fill='fill:rgb(139,0,139); mix-blend-mode: screen;' />
+<circle  cx='160.00' cy='65.00' r='10.00' fill='fill:rgb(0,0,205); mix-blend-mode: screen;' />
+<circle  cx='210.00' cy='70.00' r='10.00' fill='fill:rgb(139,0,0); mix-blend-mode: screen;' />
+<circle  cx='260.00' cy='75.00' r='10.00' fill='fill:rgb(139,0,139); mix-blend-mode: screen;' />
+</svg>
